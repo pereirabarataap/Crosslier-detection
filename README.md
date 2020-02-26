@@ -1,4 +1,4 @@
-# targeting_mislabels
+# Crosslier detection
 
 This repository houses the necessary code and datasets to reproduce the work proposed in [1].
 
